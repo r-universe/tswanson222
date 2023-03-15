@@ -1,10 +1,10 @@
 [
   {
-    "package": "modnets",
+    "package": "sampleVADIR",
     "oncran": true
   },
   {
-    "package": "sampleVADIR",
+    "package": "modnets",
     "oncran": true
   }
 ]

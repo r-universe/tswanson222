@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "modnets"]
-	path = modnets
-	url = https://github.com/tswanson222/modnets
-	shallow = true
-	registered = true
 [submodule "sampleVADIR"]
 	path = sampleVADIR
 	url = https://github.com/tswanson222/samplevadir
+	shallow = true
+	registered = true
+[submodule "modnets"]
+	path = modnets
+	url = https://github.com/tswanson222/modnets
 	shallow = true
 	registered = true
